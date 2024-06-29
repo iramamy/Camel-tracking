@@ -25,6 +25,9 @@
 
 ```
 
+# Restructured data:
+The original Camel Detection Dataset was restructured for compatibility with the YOLOv8 model and can be found [here](https://github.com/iramamy/Camel-Data).
+
 # Tags:
     - YOLOv8
     - Ultralytics
@@ -36,3 +39,5 @@
     - Machine Learning
     - Neural Networks
     - Artificial Intelligence
+
+
