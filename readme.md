@@ -30,7 +30,7 @@ The original Camel Detection Dataset was restructured for compatibility with the
 
 # Tags:
     - YOLOv8
-    - Ultralytics 8.2.46
+    - Ultralytics
     - Computer Vision
     - Object Detection
     - Object Tracking
