@@ -1,8 +1,9 @@
+# Camel Detection and Counting with YOLOv8
+
+
 ## Preview
 
 ![Track and Count Camel](./Video/camel_counting_output1.gif)
-
-
 
 
 # Data credit:
@@ -23,3 +24,15 @@
 }
 
 ```
+
+# Tags:
+    - YOLOv8
+    - Ultralytics
+    - Computer Vision
+    - Object Detection
+    - Object Tracking
+    - Roboflow
+    - Deep Learning
+    - Machine Learning
+    - Neural Networks
+    - Artificial Intelligence
