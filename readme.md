@@ -26,7 +26,7 @@
 ```
 
 # Restructured data:
-The original Camel Detection Dataset was restructured for compatibility with the YOLOv8 model and can be found [here](https://github.com/iramamy/Camel-Data).
+The original Camel Detection Dataset was restructured for compatibility with the YOLOv8 (Ultralytics version 8.2.46) model and can be found [here](https://github.com/iramamy/Camel-Data).
 
 # Tags:
     - YOLOv8
